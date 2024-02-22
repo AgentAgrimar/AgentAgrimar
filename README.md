@@ -15,7 +15,7 @@ My repositories are split up into ~~categories~~ organizations:
 
 Also see:
 
-- [My profile](https://github.com/AgentAgrimartab=repositories)  
+- [My profile](https://github.com/AgentAgrimar?tab=repositories)  
   Repositories that do not fit any of above categories or have not been organized yet.
 
 [Contact information](https://youtu.be/dQw4w9WgXcQ?si=LvM51pgrNefhtFUb)
