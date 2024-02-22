@@ -18,4 +18,4 @@ Also see:
 - [My profile](https://github.com/AgentAgrimartab=repositories)  
   Repositories that do not fit any of above categories or have not been organized yet.
 
-[Contact information](https://yal.cc/about/)
+[Contact information](https://youtu.be/dQw4w9WgXcQ?si=LvM51pgrNefhtFUb)
