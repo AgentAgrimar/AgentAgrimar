@@ -1,6 +1,4 @@
-Hello, I'm Agrimar. I've been a programmer for a number of (mainly Source) games and mods.
-
-I do various gameplay, UI, backend, etc. systems programming for games and mods.
+Hello, I'm Agrimar. I've been a programmer for a number of (mainly Source) games and mods; I do various gameplay, UI, backend, etc. (you name it) systems programming for everything.
 
 My repositories are split up into ~~categories~~ organizations:
 
